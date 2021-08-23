@@ -1,0 +1,16 @@
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\stolarz.d\source\repos\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\stolarz.d\source\repos\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
