@@ -1,0 +1,16 @@
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.exe
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.deps.json
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.runtimeconfig.json
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.runtimeconfig.dev.json
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.dll
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\ref\DBConnection.dll
+C:\Users\stolarz.d\source\repos\DBConnection\bin\Debug\net5.0\DBConnection.pdb
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.csproj.AssemblyReference.cache
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.AssemblyInfoInputs.cache
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.AssemblyInfo.cs
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.dll
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\ref\DBConnection.dll
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.pdb
+C:\Users\stolarz.d\source\repos\DBConnection\obj\Debug\net5.0\DBConnection.genruntimeconfig.cache
