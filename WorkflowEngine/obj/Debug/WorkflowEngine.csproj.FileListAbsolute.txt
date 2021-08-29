@@ -1,0 +1,7 @@
+C:\Users\stolarz.d\source\repos\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+C:\Users\stolarz.d\source\repos\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+C:\Users\stolarz.d\source\repos\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+C:\Users\stolarz.d\source\repos\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.AssemblyReference.cache
+C:\Users\stolarz.d\source\repos\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\stolarz.d\source\repos\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+C:\Users\stolarz.d\source\repos\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
