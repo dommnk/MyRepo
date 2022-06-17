@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+//This program mangaes data from database and displays it in a covinient, dependendant form, so that directors, managers are on top 
+// and on the bottom there are developers. It uses reccursive method.
+
+
 namespace Organogram2
 {
 
